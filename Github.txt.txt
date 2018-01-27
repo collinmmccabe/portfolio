@@ -1,0 +1,2 @@
+Github profile - https://github.com/collinmmccabe
+Noteworthy project, R package 'enss' (Effective Network Size Simulation) - https://github.com/collinmmccabe/enss

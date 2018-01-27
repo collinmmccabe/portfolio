@@ -1,0 +1,2 @@
+plot(dat$tt, var2_est, type = "s", col = "purple", lty = 1, lwd = 1, ylab = "", ylim = c(0,4), xlim=c(0,220), xlab = "Time Since Outbreak (hours)", bty="n", main="Disease Spread Variable Estimates")
+abline(h = var1_est, lty = 2)

@@ -33,4 +33,4 @@ interactive, useful databases for a variety of purposes.
 
 ## CV
 If you're looking for a more exhaustive list of my accomplishments and experiences, please refer to my  
-[my Curriculum Vitae](collinmmccabe.github.io).
+[my Curriculum Vitae](https://collinmmccabe.github.io).

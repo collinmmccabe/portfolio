@@ -30,3 +30,7 @@ In the [PHP_MySQL_Projects.md](PHP_MySQL_Projects.md) file, you will find 2 webp
 development on for various projects. Although both pages are only protoypes, 
 I believe they properly display my ability in developing and deploying 
 interactive, useful databases for a variety of purposes.
+
+## CV
+If you're looking for a more exhaustive list of my accomplishments and experiences, please refer to my  
+[my Curriculum Vitae](collinmmccabe.github.io).

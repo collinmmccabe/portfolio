@@ -22,7 +22,7 @@ make public a novel method developed by myself and a collaborator at Duke Univer
 2. [R code](https://github.com/collinmmccabe/networkmetrics_groupsize) from an article I wrote 
 with some colleagues, which walks the user through replicating the phylogenetic comparisons of 
 network metrics contained in the article
-3. [MATLAB code](https://github.com/collinmmccabe/networkmetrics_groupsize) for replicating the 
+3. [MATLAB code](https://github.com/collinmmccabe/coordinated_antisocial_punishment) for replicating the 
 game theoretic simulations of coordinated antisocial punishment from another article I wrote
 
 ## PHP & MySQL Projects

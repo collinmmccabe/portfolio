@@ -26,7 +26,7 @@ network metrics contained in the article
 game theoretic simulations of coordinated antisocial punishment from another article I wrote
 
 ## PHP & MySQL Projects
-In the [PHP_MySQL_Projects.md](PHP_MySQL_Projects.md) file, you will find 2 webpages which I led 
+In the [PHP_MySQL_Projects.md](PHP_MySQL_Projects.md) file, you will find 3 webpages which I led 
 development on for various projects. Although both pages are only protoypes, 
 I believe they properly display my ability in developing and deploying 
 interactive, useful databases for a variety of purposes.
